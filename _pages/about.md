@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from School of Statistics and Mathematics, Zhongnan University of Economics and Law.
+:blush:I'm a third year undergraduate student from School of Statistics and Mathematics, Zhongnan University of Economics and Law.
 
