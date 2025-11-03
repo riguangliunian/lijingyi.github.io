@@ -11,31 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Applied Statistics, Shanghai University of Finance and Economics, School of Statistics and Data Science, 2025–2027
+* 上海财经大学，统计与数据科学学院，应用统计，2025-2027
+* B.S. in Applied Statistics, Zhongnan University of Economics and Law, School of Statistics and Mathematics, 2021–2025
+* 中南财经政法大学，统计与数学学院，应用统计学，2021-2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 暂无
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* python/C++/Matlab/R/目前正在学习java ing...
+* 统计学相关
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -43,22 +31,6 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 发表太烂了不好意思po出来。
+
+
