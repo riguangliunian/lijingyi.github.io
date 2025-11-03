@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/assets/文本选择.gif" 
+<img src="/assets/bj.gif" 
      style="width:80px; vertical-align:middle; margin-right:10px;" />  
      
 👋 你好！我目前是 **上海财经大学** 应用统计研一（2025–2027），本科来自 **中南财经政法大学** 统计与数学学院应用统计学专业（2021–2025）。在本科期间，我和同学及导师度过了愉快的时光，积累了丰富的学习和科研经验。
