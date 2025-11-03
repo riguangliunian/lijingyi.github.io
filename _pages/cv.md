@@ -16,21 +16,36 @@ Education
 * B.S. in Applied Statistics, Zhongnan University of Economics and Law, School of Statistics and Mathematics, 2021–2025
 * 中南财经政法大学，统计与数学学院，应用统计学，2021-2025
 
-Work experience
+Internship Experience
 ======
-* 暂无
+### 众安科技 — 算法实习生  
+*2025.4 – 2025.8*
+
+** 参与中银保险合作项目，通过统计学模型计算
+** 使用大模型实现风险应验
+** 协助车险部门和数据科学部门完成车辆部位图片的识别和增亮
+
+### 百融云创 — 大模型应用开发实习生  
+*2025.9 – 至今*
+
+** 参与公众号生成agent搭建，etf财富管理对话agent搭建
+
   
 Skills
 ======
-* python/C++/Matlab/R/目前正在学习java ing...
-* 统计学相关
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* python/C++/Matlab/R/SQL/部分java，前后端技能学习中...
+* 数据科学相关
+  * 统计学。机器学习，深度学习
+  * agent，大模型算法
+* Liunx/Shell使用经验
 
 Publications
 ======
-* 发表太烂了不好意思po出来。
+- **Zhao, Lufei¹; Li, Jingyi²; et al.**  
+  Prediction of protein secondary structure by the improved TCN-BiLSTM-MHA model with knowledge distillation. *Scientific Reports*, 2024, 14, 16488. (JCR Q2, IF=4.6)
+
+- **Yang, Xinyi*; Li, Jingyi*; et al.**  
+  Research on information leakage in time series prediction based on empirical mode decomposition. *Scientific Reports*, 2024, 14, 28362. (JCR Q2, IF=4.6)  
+  (*Co-first authors)
 
 
