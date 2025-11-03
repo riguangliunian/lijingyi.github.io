@@ -47,7 +47,8 @@ Publications
   Research on information leakage in time series prediction based on empirical mode decomposition. *Scientific Reports*, 2024, 14, 28362. (JCR Q2, IF=4.6)  
   (\*Co-first authors)
 
-### Resume
+Resume
+======
 [![📄 下载简历](https://img.shields.io/badge/Download-PDF-blue?style=flat-square)](assets/CV.pdf)
 
 
