@@ -2,7 +2,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jingyi Li / Personal Homepage"
+title                    : "Li Jingyi / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jingyi Li"
 description              : &description "personal description"
@@ -16,13 +16,13 @@ repository               : "Lijingyi/Lijingyi.github.io"
 author:
   # Biographic information
   avatar           : "111.jpg"
-  name             : "Jingyi Li"
+  name             : "Li Jingyi"
   pronouns         : # example: "she/her"  
-  bio              : "Applied Statistics,SUFE."
+  bio              : "👩‍🎓 M.Sc. Candidate in Applied Statistics @ SUFE\n📊 样样不精持续努力的统计学学生"
   location         : "Shanghai"
   employer         : 
   uri              : https://riguangliunian.github.io/lijingyi.github.io/
-  email            : 
+  email            : "lijingyi030505@163.com"
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
