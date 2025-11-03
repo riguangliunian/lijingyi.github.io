@@ -16,6 +16,6 @@ redirect_from:
 
 这是我的个人主页，欢迎通过左侧的邮箱或我的GitHub联系我 ✨
 
-<!-- 二次元小人 GIF，固定在右下角 -->
-<img src="/assets/文本选择.gif" 
+<img src="/assets/文本选择.gif?ver=1" 
      style="position: fixed; bottom: 20px; right: 20px; width: 150px; z-index: 1000;">
+
