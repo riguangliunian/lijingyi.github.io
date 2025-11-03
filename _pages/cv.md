@@ -30,12 +30,11 @@ Internship Experience
 
 * 参与公众号生成agent搭建，etf财富管理对话agent搭建
 
-  
 Skills
 ======
 * python/C++/Matlab/R/SQL/部分java，前后端技能学习中...
 * 数据科学相关
-  * 统计学。机器学习，深度学习
+  * 统计学,机器学习，深度学习
   * agent，大模型算法
 * Liunx/Shell使用经验
 
@@ -44,8 +43,11 @@ Publications
 - **Zhao, Lufei¹; Li, Jingyi²; et al.**  
   Prediction of protein secondary structure by the improved TCN-BiLSTM-MHA model with knowledge distillation. *Scientific Reports*, 2024, 14, 16488. (JCR Q2, IF=4.6)
 
-- **Yang, Xinyi*; Li, Jingyi*; et al.**  
+- **Yang, Xinyi\*; Li, Jingyi\*; et al.**  
   Research on information leakage in time series prediction based on empirical mode decomposition. *Scientific Reports*, 2024, 14, 28362. (JCR Q2, IF=4.6)  
-  (*Co-first authors)
+  (\*Co-first authors)
+
+### Resume
+[![📄 下载简历](https://img.shields.io/badge/Download-PDF-blue?style=flat-square)](assets/CV.pdf)
 
 
