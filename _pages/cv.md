@@ -49,6 +49,6 @@ Publications
 
 Resume
 ======
-[![📄 下载简历](https://img.shields.io/badge/Download-PDF-blue?style=flat-square)](assets/CV.pdf)
+[![📄 下载简历](https://img.shields.io/badge/Download-PDF-blue?style=flat-square)](_pages/assets/CV.pdf)
 
 
