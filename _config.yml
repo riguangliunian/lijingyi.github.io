@@ -15,10 +15,10 @@ repository               : "Lijingyi/Lijingyi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "111.jpg"
+  avatar           : "touxiang.jpg"
   name             : "Li Jingyi"
   pronouns         : # example: "she/her"  
-  bio: "👩‍🎓 M.Sc. Candidate in Applied Statistics @ SUFE <br> 📊 样样不精持续努力的统计学学生"
+  bio: "👩‍🎓 M.Sc. Candidate in Applied Statistics @ SUFE <br> 👩‍💻 中南财经政法大学@应用统计学本科->上海财经大学@应用统计研究生"
   location         : "Shanghai"
   employer         : 
   uri              : https://riguangliunian.github.io/lijingyi.github.io/
