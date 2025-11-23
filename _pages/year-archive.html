@@ -7,13 +7,40 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- 旅游板块 -->
+<section id="travel" class="home-section">
+  <h2 class="section-title">旅游</h2>
+  
+  <!-- 可以放一张旅游照片 -->
+  <img src="/assets/images/travel1.jpg" alt="旅游照片" class="section-image">
+  
+  <!-- 简短介绍文字 -->
+  <p class="section-text">
+    我喜欢探索世界各地的风景和文化，从山川湖泊到城市街角，每一次旅行都让我收获新的体验和灵感。
+  </p>
+  
+  <!-- 可以增加多张图片 -->
+  <div class="section-gallery">
+    <img src="/assets/images/travel2.jpg" alt="旅游照片2">
+    <img src="/assets/images/travel3.jpg" alt="旅游照片3">
+  </div>
+</section>
+
+<!-- 代码项目板块 -->
+<section id="projects" class="home-section">
+  <h2 class="section-title">代码项目</h2>
+  
+  <!-- 可以放一张项目图片 -->
+  <img src="/assets/images/project1.png" alt="代码项目图片" class="section-image">
+  
+  <!-- 简短介绍文字 -->
+  <p class="section-text">
+    我在数据分析、金融建模和机器学习等方向有一些实践项目，包括使用 Python、R、以及前端技术构建的可视化和自动化工具。
+  </p>
+  
+  <!-- 可以增加多张项目图片 -->
+  <div class="section-gallery">
+    <img src="/assets/images/project2.png" alt="项目图片2">
+    <img src="/assets/images/project3.png" alt="项目图片3">
+  </div>
+</section>
